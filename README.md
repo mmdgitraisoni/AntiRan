@@ -1,4 +1,4 @@
-# AntiRan
+# Decode(AntiRan)
 
 This system focuses on real-time file monitoring to detect potential ransomware behavior (e.g., rapid file encryption, unusual file modifications, or entropy spikes in files). It includes:
 
